@@ -6,6 +6,7 @@ Choose any one topic from the following list:
 2. Frequent Pattern Mining Algorithms
 3. Classification and
 4. Clustering
+
 From Python available datasets you can choose any dataset or you can choose any public dataset. Then select any topic from the above list. Apply various functions, algorithms available for that topic in Python library and produced your result. Generate comparative statement on all the methods that are used by you. 
 
 ## Approach :
